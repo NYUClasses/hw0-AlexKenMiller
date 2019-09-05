@@ -1,5 +1,5 @@
 # EDA-HW0
-
+## Due Date: Monday, September 9th, 12:00 pm 
 ### Helpful Markdown links
 [Mastering Markdown](https://guides.github.com/features/mastering-markdown/)
 
@@ -10,17 +10,15 @@
 [Markdown Tutorial](https://www.markdowntutorial.com/)
 
 
-
+### My First Github Assignment
 1.Create a Heading right above this line &uarr; that says 'My First Github Assignment' 
 
 2.Create an ordered list detailing your first and last name, your favorite blog or podcast, and the link to your GitHub repo. Make your first and last name Bold and Italicize your favorite blog or podcast name.  
 
 It should look something like this: 
 
-1. Name:
-  * Arnon Lieber
-2. 
-  * 
-3. 
+1. Name: **Alexander Miller**
+2. Favorite Podcast: *Upfirst on NPR*
+3. [github repository](https://github.com/NYUClasses/hw0-AlexKenMiller)
 
 Once you are done, commit your changes, and push to GitHub. 
